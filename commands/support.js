@@ -38,7 +38,7 @@ module.exports = {
               iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1230824519220985896/6280-2.gif?ex=6638ae28&is=66375ca8&hm=13e4a1b91a95b2934a39de1876e66c11711c7b30ac1a91c2a158f2f2ed1c2fc6&', 
               url: 'https://discord.gg/Vvb7mcwekJ'
           })
-            .setDescription(`➡️ **Join our Discord server for support and updates:**\n- Discord - ${supportServerLink}\n\n➡️ **Follow us on:**\n- GitHub - ${websiteLink}`)
+            .setDescription(`➡️ **Join our Discord server for support and updates:**\n- Discord - ${supportServerLink}\n\n➡️ **Follow us on:**\n- Website - ${websiteLink}`)
             .setImage('https://cdn.discordapp.com/attachments/1239564192114020384/1247125327617065011/DJ_SKYE.jpg?ex=665ee378&is=665d91f8&hm=2be48fd446310a5262fbb80ec521c797888be3cad17403aef9d610527a6d749b&')
             .setTimestamp();
 
